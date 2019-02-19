@@ -1,0 +1,8 @@
+# should aliases be signed? see readme for alias signing information
+[signing]
+enabled = true
+key = "your signing key here"
+
+# alias to key ID
+[aliases]
+jkcclemens = "7AFEC6C933D82E9DE3762A8BB5260624B47A890B"
